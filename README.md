@@ -1,4 +1,4 @@
 # Library-System-PHP
 
 username: admin 
-passdword: admin123
+password: admin123
